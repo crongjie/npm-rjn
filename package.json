@@ -1,0 +1,22 @@
+{
+  "name": "rjn",
+  "version": "1.0.0",
+  "description": "RJN - RJ's npm package. It is the root namespace of rjn package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crongjie/npm-rjn.git"
+  },
+  "keywords": [
+    "rjn"
+  ],
+  "author": "RJ <rongjie.tablet@gmail.com> (http://rj-memo.weebly.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crongjie/npm-rjn/issues"
+  },
+  "homepage": "https://github.com/crongjie/npm-rjn#readme"
+}
