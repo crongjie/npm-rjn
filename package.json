@@ -1,6 +1,6 @@
 {
   "name": "rjn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "RJN - RJ's npm package. It is the root namespace of rjn package.",
   "main": "index.js",
   "scripts": {
