@@ -1,7 +1,7 @@
 {
   "name": "rjn",
-  "version": "1.0.1",
-  "description": "RJN - RJ's npm package. It is the root namespace of rjn package.",
+  "version": "1.0.2",
+  "description": "RJN - RJ's npm package. It is the root namespace of rjn package. And it contains some common functions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -7,5 +7,8 @@ module.exports = {
     },
     isIE: function() {
         return userAgent.match(/(msie|MSIE)/);
+    },
+    isObject: function(obj) {
+        return obj != null && typeof obj === 'object' && Object.prototype.toString.call(obj) === '[object Object]';
     }
 };
