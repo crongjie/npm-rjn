@@ -6,7 +6,7 @@ module.exports = {
         return /(android)/i.test(navigator.userAgent);
     },
     isIE: function() {
-        return userAgent.match(/(msie|MSIE)/);
+        return /(MSIE)/i.test(navigator.userAgent);
     },
     isObject: function(obj) {
         return obj != null && typeof obj === 'object' && Object.prototype.toString.call(obj) === '[object Object]';
